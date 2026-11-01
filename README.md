@@ -7,18 +7,18 @@ A desktop application developed with Python (Tkinter) to construct, animate, and
 ## 📷 Screenshots
 
 ### Main Interface
-(<img width="1102" height="806" alt="image" src="https://github.com/user-attachments/assets/9c09a75b-44dd-42f8-9f5b-38b0eea70486" />
-)
+<img width="1102" height="806" alt="image" src="https://github.com/user-attachments/assets/9c09a75b-44dd-42f8-9f5b-38b0eea70486" />
+
 *Figure 1: Application workspace with input controls, simulation grid, and verification panel.*
 
 ### Simulation in Progress
-(<img width="1102" height="811" alt="image" src="https://github.com/user-attachments/assets/8b1b5c0a-c9f9-423f-b380-4f9845c37c35" />
-)
+<img width="1102" height="811" alt="image" src="https://github.com/user-attachments/assets/8b1b5c0a-c9f9-423f-b380-4f9845c37c35" />
+
 *Figure 2: Step-by-step constructive fill with cell highlighting and algorithm steps.*
 
 ### Brute-Force & Verification
-(<img width="1103" height="813" alt="image" src="https://github.com/user-attachments/assets/8c9f42da-dc5a-40a7-b960-7bcc2473127f" />
-)
+<img width="1103" height="813" alt="image" src="https://github.com/user-attachments/assets/8c9f42da-dc5a-40a7-b960-7bcc2473127f" />
+
 *Figure 3: Search statistics (time elapsed, nodes visited) and magic constant verification.*
 
 ---
